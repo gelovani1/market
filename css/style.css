@@ -1,0 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul.nav.navbar-nav {
+    margin-left: 305px;
+}
