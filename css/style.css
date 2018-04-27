@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul.nav.navbar-nav {
+    margin-left: 305px;
+}
+.navbar-default {
+    background-color: #00ff0091;
+    border-color: #e7e7e7;
+    background-image: none;
+    border-radius: 7px;
+}
